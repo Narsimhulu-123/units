@@ -1,0 +1,29 @@
+.container{
+    background-color:white;
+    border:2px solid black;
+
+}
+.body{
+    margin:0;
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    color:aqua;
+    background-color: black;
+    text-align: center;
+}
+section{
+    margin-left: 2px;
+    display: inline-block;
+    vertical-align: top;
+
+}
+img{
+    width:600px;
+    height:400px;
+}
+.h1{
+    border: 2px;
+}
